@@ -1,6 +1,6 @@
 Pour pouvoir utiliser le solveur UBCSAT il faut :
 
-## 1.télécharger l'exécutable depuis le lien suivant :
+## 1. Télécharger l'exécutable depuis le lien suivant :
 
 https://cs.uwaterloo.ca/~dtompkin/archive/ubcsat/
 
