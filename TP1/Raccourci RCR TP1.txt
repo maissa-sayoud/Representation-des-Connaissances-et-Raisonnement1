@@ -1,0 +1,21 @@
+
+ubcsat -alg saps -i test1.cnf –solve
+
+
+
+
+ubcsat -alg saps -i test2.cnf -solve
+
+
+
+ubcsat -alg saps -i zoo.cnf -solve
+
+
+
+ubcsat -alg saps -i uf250-080.cnf -solve
+
+
+
+ubcsat -alg saps -i uuf250-080.cnf -solve
+
+
