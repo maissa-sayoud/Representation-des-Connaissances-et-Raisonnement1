@@ -1,7 +1,7 @@
 # Representation-des-Connaissances-et-Raisonnement1
 
 
-Dans ces travaux pratiques réalisé dans le cadre du cours Représentation des Connaissances et Raisonnement, nous avons exploré diverses techniques de modélisation et d'inférence logique.
+Dans ces travaux pratiques réalisés dans le cadre du cours Représentation des Connaissances et Raisonnement, nous avons exploré diverses techniques de modélisation et d'inférence logique.
 
 Nous avons commencé par l'utilisation d'un solveur SAT pour l'inférence logique, où nous avons appris à modéliser des problèmes sous forme CNF et à évaluer leur satisfiabilité. Ensuite, nous avons exploré la logique du premier ordre avec la bibliothèque Tweety, nous permettant
 de représenter des connaissances complexes et de répondre à des requêtes spécifiques. Nous
